@@ -5,7 +5,7 @@
 ## 참가자 / Participants
 
 - 3414 이은학 (Eunhak Lee)
-    - Email [admin@return0927.xyz](mailto:admin@return0927.xyz)
+  - Email [admin@return0927.xyz](mailto:admin@return0927.xyz)
 - 3702 김민규 (Minkyu Kim)
 - 3904 김윤성 (Yunseong Kim)
 
